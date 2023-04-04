@@ -1,6 +1,6 @@
 # language_test
 
-Testing language settings in  web
+Testing language settings with Flutter in  web
 
 ## Getting Started
 
