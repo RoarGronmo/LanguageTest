@@ -8,6 +8,11 @@ Tip for you when testing in Google Chrome
 
 A. Open Developer console with "Ctrl+Shift+I"
 
+
+![image](https://user-images.githubusercontent.com/11217296/229811395-a0b5a8dc-16d2-4987-aa3e-c0b40bf62d63.png)
+
+
+
 B. If "Console" is not shown below, please press "Esc" once
 
 
