@@ -13,7 +13,7 @@ A. Open Developer console with "Ctrl+Shift+I"
 
 
 
-B. If "Console" is not shown below, please press "Esc" once
+B. If "Console" is not shown, please press "Esc" once
 
 
 ![image](https://user-images.githubusercontent.com/11217296/229809058-517d035b-0fa3-49cf-aef0-b3df3b08b4af.png)
