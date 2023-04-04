@@ -25,5 +25,7 @@ D. Open Location click on "overrides->other"
 E. Enter your locale code here such as 'en-US', 'de-DE', 'sv-SE', 'da-DK', 'nb-NO', 'nn-NO' and so on, to test.
 
 
+![image](https://user-images.githubusercontent.com/11217296/229810752-24b20ad2-579e-4f92-8569-f375f8fc17be.png)
+
 
 F. You may need to refresh your browser 'F5' to reload with new language settings.
